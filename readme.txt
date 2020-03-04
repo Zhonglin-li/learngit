@@ -2,4 +2,4 @@
 Git is a free software.
 Git has a mutable index called stage.
 Git tracks changes.
-Creating a new branch is quicky.
+Creating a new branch is quicky AND simple.

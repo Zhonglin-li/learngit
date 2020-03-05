@@ -1,4 +1,4 @@
-﻿Eidt on branch dev.
+﻿Eidt on branch dev and have a bug.
 Git is a distributed version control system.
 Git is a free software.
 Git has a mutable index called stage.
